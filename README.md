@@ -10,11 +10,12 @@
 
 ### Connect with me:
 
-[![website](https://www.linkedin.com/in/ailygucfa)
-[![website](https://www.linkedin.com/in/ailygucfa)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/ailygucfa#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/ailygucfa#gh-dark-mode-only)
+[![LinkedIn](https://www.linkedin.com/in/ailygucfa)](https://www.linkedin.com/in/ailygucfa)
+
+[![Instagram Light Mode](./img/instagram-light.svg)](https://www.instagram.com/ailygucfa#gh-light-mode-only)
+
+[![Instagram Dark Mode](./img/instagram-dark.svg)](https://www.instagram.com/ailygucfa#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
