@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 starting 2023 Goals:  my goal is to become an even better coder, create useful and user-friendly apps that make people's lives easier and more enjoyable .
+- 🥅 starting 2023:  My goal is to become an even better coder, create useful and user-friendly apps that make people's lives easier and more enjoyable .
 
 ### Connect with me:
 
