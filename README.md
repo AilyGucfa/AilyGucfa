@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ailygucfa)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ailygucfa/)
+[![website](https://www.linkedin.com/in/ailygucfa)
+[![website](https://www.linkedin.com/in/ailygucfa)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ailygucfa#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ailygucfa#gh-dark-mode-only)
